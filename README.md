@@ -1,9 +1,9 @@
  ### Seja Bem-vindo ao meu perfil! </br>Meu nome é Andre Ray e sou um estudante de python e desenvolvimento web.
  ##
-<div display="flex"></br>
+<div align="center"></br>
   <a href="https://github.com/10-AndreRay">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=10-AndreRay&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=10-AndreRay&layout=compact&langs_count=7&theme=dark"/>
+  <img height="180em" width="450em" src="https://github-readme-stats.vercel.app/api?username=10-AndreRay&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" width"450em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=10-AndreRay&layout=compact&langs_count=7&theme=dark"/>
 </div>
 <div align="center"><br>
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
