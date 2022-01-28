@@ -1,4 +1,5 @@
- ### Seja Bem-vindo ao meu perfil! </br>Meu nome é Andre Ray e sou um estudante de python e desenvolvimento web.
+ ### Seja Bem-vindo ao meu perfil! 
+ ### Meu nome é Andre Ray e sou um estudante de python e desenvolvimento web.
  ##
 <div align="center"></br>
   <a href="https://github.com/10-AndreRay">
