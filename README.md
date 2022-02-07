@@ -1,6 +1,8 @@
- ### Seja bem-vindo ao meu perfil! 
- ### Meu nome é Andre Ray e sou um estudante de python e desenvolvimento web.
- ##
++ ### Seja bem-vindo ao meu perfil!
++ ### Meu nome é Andre Ray e sou um estudante de python e desenvolvimento web.</h3>
+
+##
+
 <div align="center"></br>
   <a href="https://github.com/10-AndreRay">
   <img height="180em" width="450em" src="https://github-readme-stats.vercel.app/api?username=10-AndreRay&show_icons=true&theme=algolia&title_color=ffffff&border_radius=10px&border_color=007bff&include_all_commits=true&count_private=true"/>
@@ -14,6 +16,7 @@
 </div>
 
 ##
+
 <div align="center">
     <a href="https://www.instagram.com/_andreray/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
     <a href="https://www.linkedin.com/in/andré-ray" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
