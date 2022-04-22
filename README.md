@@ -1,5 +1,5 @@
 + ### Seja bem-vindo ao meu perfil!
-+ ### Meu nome é Andre Ray e sou um estudante de python e desenvolvimento web.</h3>
++ ### Meu nome é Andre Ray e sou um estudante de desenvolvimento web.</h3>
 
 ##
 
