@@ -3,11 +3,7 @@
 
 ##
 
-<div align="center"></br>
-  <a href="https://github.com/10-AndreRay">
-  <img height="180em" width="450em" src="https://github-readme-stats.vercel.app/api?username=10-AndreRay&show_icons=true&theme=algolia&title_color=ffffff&border_radius=10px&border_color=007bff&include_all_commits=true&count_private=true"/>
-  <img height="180em" width="450em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=10-AndreRay&layout=compact&langs_count=7&theme=algolia&title_color=ffffff&border_radius=10px&border_color=007bff"/>
-</div>
+
 <div align="center"><br>
   <img align="center" alt="Java" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
   <img align="center" alt="Spring" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg" />
